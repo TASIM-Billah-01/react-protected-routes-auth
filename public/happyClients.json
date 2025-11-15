@@ -1,0 +1,38 @@
+[
+  {
+    "reviewId": 1,
+    "name": "Tasim",
+    "userImg": "https://i.ibb.co.com/Qw5V427/a1.jpg",
+    "review": "I had crooked front teeth for years and finally went for orthodontic treatment. The braces journey was smooth, and now my smile looks amazing. The staff was very supportive throughout the process."
+  },
+  {
+    "reviewId": 2,
+    "name": "Tahmid",
+    "userImg": "https://i.ibb.co.com/p686KC1t/a2.jpg",
+    "review": "My wisdom teeth were causing me terrible jaw pain. The extraction was quick and painless, and the recovery was easier than I expected. The doctor explained every step clearly."
+  },
+  {
+    "reviewId": 3,
+    "name": "Taki",
+    "userImg": "https://i.ibb.co.com/cXc9yXg1/a3.jpg",
+    "review": "I wanted to brighten my teeth before an event, so I took their whitening service. The results were fantastic — my teeth look several shades lighter and feel completely natural."
+  },
+  {
+    "reviewId": 4,
+    "name": "Pranto",
+    "userImg": "https://i.ibb.co.com/1GV5FRq2/a4.jpg",
+    "review": "I had a small crack on my molar that was sensitive to cold drinks. The dentist fixed it with a crown, and now it feels like a brand-new tooth. Very happy with the treatment."
+  },
+  {
+    "reviewId": 5,
+    "name": "Tanzim",
+    "userImg": "https://i.ibb.co.com/zhtWdsT2/a5.jpg",
+    "review": "After losing a tooth, I decided to get a dental implant. The process was well-organized and painless. The implant looks and feels exactly like my natural teeth — worth every penny."
+  },
+  {
+    "reviewId": 6,
+    "name": "Sams",
+    "userImg": "https://i.ibb.co.com/YT4X4TGS/a6.jpg",
+    "review": "I always wanted a perfect smile, so I went for veneers. The dentist did an incredible job — the shape and color look so natural that people can’t even tell they’re veneers."
+  }
+]

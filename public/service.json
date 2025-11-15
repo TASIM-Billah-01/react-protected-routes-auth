@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "treatment": "Dental Implant",
+    "image": "https://i.ibb.co/NdSf0z6F/dental.jpg",
+    "description": "Replacement tooth root (titanium) surgically placed to support crowns — long-term solution for missing teeth.",
+    "cost": 700
+  },
+  {
+    "id": 2,
+    "treatment": "Cracked Tooth",
+    "image": "https://i.ibb.co/YBh7Q1jJ/cracked1.jpg",
+    "description": "Treatment for a tooth with cracks; options include bonding, crowns, root canal or extraction depending on severity.",
+    "cost": 300
+  },
+  {
+    "id": 3,
+    "treatment": "Wisdom Teeth",
+    "image": "https://i.ibb.co/JW4HDzRM/wishdom1.jpg",
+    "description": "Assessment and surgical extraction of third molars (wisdom teeth) when impacted or causing problems.",
+    "cost": 150
+  },
+  {
+    "id": 4,
+    "treatment": "Teeth Whitening",
+    "image": "https://i.ibb.co/kgKRC41R/whitening.jpg",
+    "description": "In-office or take-home bleaching to safely lighten tooth color and remove stains.",
+    "cost": 120
+  },
+  {
+    "id": 5,
+    "treatment": "Veneers",
+    "image": "https://i.ibb.co/m5R9rQ3K/645b1c8a1f86fe6f0b4bda954fbc2f9a.jpg",
+    "description": "Thin porcelain or composite shells bonded to front teeth to improve shape, color or alignment.",
+    "cost": 500
+  },
+  {
+    "id": 6,
+    "treatment": "Orthodontic Treatment",
+    "image": "https://i.ibb.co/SXLZhspk/orthodontic.jpg",
+    "description": "Braces or clear aligners to correct misaligned teeth and bite issues for improved function and aesthetics.",
+    "cost": 2000
+  },
+  {
+    "id": 7,
+    "treatment": "Dental CT Scan",
+    "image": "https://i.ibb.co/Dfc247jR/ctscan.jpg",
+    "description": "3D imaging (CBCT) for implant planning, surgical assessment, and complex diagnostics.",
+    "cost": 250
+  },
+  {
+    "id": 8,
+    "treatment": "Complete Denture",
+    "image": "https://i.ibb.co/NdgtXX1Z/complete.jpg",
+    "description": "Removable full-arch dentures to replace all upper or lower teeth for function and appearance.",
+    "cost": 800
+  }
+]
