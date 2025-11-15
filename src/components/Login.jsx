@@ -40,7 +40,7 @@ const Login = () => {
     }
     return (
         <div className="flex justify-center mt-4 sm:mt-20 lg:mt-24 items-center px-4">
-            <section className="bg-white z-50 shadow-xl rounded-2xl p-4 xl:p-6 w-full sm:max-w-[500px] lg:max-w-lg xl:max-w-xl">
+            <section className="bg-white  shadow-xl rounded-2xl p-4 xl:p-6 w-full sm:max-w-[500px] lg:max-w-lg xl:max-w-xl">
                 <h1 className="text-xl sm:text-2xl font-semibold text-center mb-6 text-gray-800">
                     Login to Your Account
                 </h1>

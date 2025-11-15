@@ -13,7 +13,7 @@ const Navbar = () => {
     const linkClass02 = ({isActive}) => `px-3 py-1 rounded transition-colors  duration-200 text-[15px] ${isActive ? 'bg-[#9538E2] text-white' : 'hover:text-[#9538E2] text-gray-700'}`
     return (
         <div className="xl:mb-28 sm:mb-14 lg:mb-[70px] mb-1">
-            <header className="hidden  sm:block bg-white fixed top-0 left-0 right-0 shadow-md transition-colors z-40 duration-200">
+            <header className="hidden  sm:block bg-white fixed top-0 left-0 right-0 shadow-md transition-colors z-50 duration-200">
                 <section className=" max-w-6xl mx-auto p-4 flex justify-between items-center">
                     <h1 className="lg:text-2xl sm:text-lg font-bold text-[#9538E2] tracking-wide">Teeth<span className="text-gray-700">Wizard</span></h1>
                     <nav className="hidden lg:flex gap-5 text-lg items-center">
